@@ -48,8 +48,8 @@ NewsAPI (optional)──┘     (dedupe)      (FinBERT /        (PostgreSQL)
 
 ### 1. Clone and install
 ```bash
-git clone https://github.com/yourgithub/fin-sentiment-predictor.git
-cd fin-sentiment-predictor
+git clone https://github.com/Mayur074/FinBERT-Sentiment-Price-Prediction.git
+cd FinBERT-Sentiment-Price-Prediction
 pip install -r requirements.txt
 ```
 
